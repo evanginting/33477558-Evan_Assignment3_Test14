@@ -9,7 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 This line is from main.
+
+This is from branch2.
+
 
 ## R Markdown
 
